@@ -1,6 +1,8 @@
 .ipynb_checkpoint
 **/pychache/*
 effdet5-cutmix-augmix 
+effdet5-cutmix-augmix-fold10
+n_class_effdet5-cutmix-augmix
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
